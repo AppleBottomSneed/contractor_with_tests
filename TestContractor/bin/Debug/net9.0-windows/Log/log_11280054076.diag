@@ -1,0 +1,16 @@
+2025-11-28T00:00:54.0813313+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-11-28T00:00:54.0928864+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-11-28T00:00:54.0938932+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-11-28T00:00:54.0938986+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 00:00:54.052
+2025-11-28T00:00:54.0957052+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 11616
+2025-11-28T00:00:54.0957369+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.9
+2025-11-28T00:00:54.0957476+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.9\System.Private.CoreLib.dll
+2025-11-28T00:00:54.0957558+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-11-28T00:00:54.0957577+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\jon55\Desktop\TAFE\C#\Intro\Assessment_2\TestContractor\bin\Debug\net9.0-windows\TestContractor.dll
+2025-11-28T00:00:54.0958472+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\jon55\Desktop\TAFE\C#\Intro\Assessment_2\TestContractor\bin\Debug\net9.0-windows\Log --results-directory C:\Users\jon55\Desktop\TAFE\C#\Intro\Assessment_2\Contractor\TestResults --client-port 52497'
+2025-11-28T00:00:54.0968949+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-11-28T00:00:54.1206627+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-11-28T00:00:54.1238059+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\jon55\Desktop\TAFE\C#\Intro\Assessment_2\TestContractor\bin\Debug\net9.0-windows\TestContractor.testconfig.json' not found.
+2025-11-28T00:00:54.1250247+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-11-28T00:00:54.2531448+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-11-28T00:00:54.2630438+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter WARNING Runsettings attribute 'MaxCpuCount' is not supported by Microsoft.Testing.Platform and will be ignored
