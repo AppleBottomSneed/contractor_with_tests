@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\TestContractor\\TestContractor.csproj": {}
+    "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\TestContractor\\TestContractor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\Contractor\\Contractor.csproj": {
+    "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\Contractor\\Contractor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\Contractor\\Contractor.csproj",
+        "projectUniqueName": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\Contractor\\Contractor.csproj",
         "projectName": "Contractor",
-        "projectPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\Contractor\\Contractor.csproj",
+        "projectPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\Contractor\\Contractor.csproj",
         "packagesPath": "C:\\Users\\jon55\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\Contractor\\obj\\",
+        "outputPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\Contractor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\TestContractor\\TestContractor.csproj": {
+    "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\TestContractor\\TestContractor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\TestContractor\\TestContractor.csproj",
+        "projectUniqueName": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\TestContractor\\TestContractor.csproj",
         "projectName": "TestContractor",
-        "projectPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\TestContractor\\TestContractor.csproj",
+        "projectPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\TestContractor\\TestContractor.csproj",
         "packagesPath": "C:\\Users\\jon55\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\TestContractor\\obj\\",
+        "outputPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\TestContractor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +102,8 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\Contractor\\Contractor.csproj": {
-                "projectPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\Contractor\\Contractor.csproj"
+              "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\Contractor\\Contractor.csproj": {
+                "projectPath": "C:\\Users\\jon55\\Desktop\\TAFE\\C#\\Intro\\Assessment_2\\contractor_with_tests\\Contractor\\Contractor.csproj"
               }
             }
           }
